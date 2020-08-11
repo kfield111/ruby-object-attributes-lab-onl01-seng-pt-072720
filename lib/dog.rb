@@ -7,4 +7,3 @@ class Dog
     new_dog = name
   end
 end
-
