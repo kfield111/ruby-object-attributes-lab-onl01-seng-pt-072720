@@ -6,4 +6,5 @@ class Dog
   def name
     new_dog = name
   end
-  
+end
+
